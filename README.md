@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=Tdoyi95WvTM
 
 ![figure](figure/1.png)
 
-![figure](figure/3.png =200x300)
+<img src="figure/3.png" width="50%" height="50%">
