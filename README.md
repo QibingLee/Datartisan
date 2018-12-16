@@ -18,5 +18,5 @@ https://www.youtube.com/watch?v=Tdoyi95WvTM
 
 ![figure](figure/1.png)
 
-<img src="figure/3.png" style="width:50%;height:50%;display:block;margin:0 auto“>
+<img src="figure/3.png" style="width:650px;height:450px;display:block;margin:0 auto“>
 <img src="figure/3.png" width="50%" height="50%">
