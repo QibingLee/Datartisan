@@ -19,6 +19,3 @@ https://www.youtube.com/watch?v=Tdoyi95WvTM
 ![figure](figure/1.png)
 
 <div align=center><img width="70%" height="70%" src="figure/3.png"/></div>
-
-<img src="figure/3.png" width="50%" height="50%">
-
