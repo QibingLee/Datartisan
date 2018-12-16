@@ -1,8 +1,8 @@
 # Visual-Art-Weka
 
 ## An Interactive Web Visualization Tools
-This project is based on the Weka data-mining library and D3/Echarts javascript charts.
-End-users can use this software to analyze and visualize their data (especially the UCI datasets).
+This project is based on the Weka data-mining library and D3/Echarts javascript charts, which supports several clustering, classification and association algorithms.
+End-users can use this software to analyze and visualize their data (especially the UCI datasets https://archive.ics.uci.edu/ml/datasets.html).
 
 Note that it is built six years ago, and therefore some functions may be abandoned.
 
