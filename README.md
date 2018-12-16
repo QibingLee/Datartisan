@@ -10,6 +10,12 @@ Note that it is built six years ago, and therefore some functions may be depreca
 ## Technical Slide
 You can see the technical details from this slide: Technical report.pdf
 
+![figure](figure/2.png)
+ 
 ## Demo Video
 You can also watch the youtube video for this software:
 https://www.youtube.com/watch?v=Tdoyi95WvTM
+
+![figure](figure/1.png)
+
+![figure](figure/3.png)
